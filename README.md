@@ -23,7 +23,9 @@ OR just check out the deployed version at: https://kanbanboard-pi6q.onrender.com
 
 To login, make sure to use on of these three usernames: JollyGuru, SunnyScribe or RadiantComet.
 
-the password will be password. Once you login you will have ccess to the Kanban feature.
+the password will be password. Once you login you will have access to the Kanban feature.
+
+Use this board to delegate tasks to developers working on a project and use the ticket system to track each users progess.
 
 
 ## 🚀 About Me
